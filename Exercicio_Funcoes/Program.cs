@@ -10,12 +10,6 @@ namespace Exercicio_Funcoes
     {
         static void Main(string[] args)
         {
-            /*int Chocolate = 30;
-            int Refrigerante = 50;
-            int Bolo = 45;
-            int Sorvete = 60;
-            int Pao = 15;*/
-
             Console.WriteLine("========== Padaria do Seu Jorge / v1.0 ==========");
             Console.WriteLine("\nPreço dos alimentos:\n");
             Console.WriteLine("Chocolate = R$30.00");
