@@ -25,4 +25,5 @@ melhores práticas e truques que vão te ajudar a se tornar um grande programado
 <hr/>
 
 <h4><b>Aulas:</b> :blue_book: 96 video-aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :lock: Pausado</h4>
+<!-- <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4> -->
